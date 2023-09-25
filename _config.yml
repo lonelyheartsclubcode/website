@@ -1,17 +1,17 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               musings
+tagline:             'mika adlin'
+description:         'mika adlin is a product manager, autodidact programmer, and writer.'
+url:                 https://www.mikaadlin.xyz
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Mika Adlin
+  url:               https://www.linkedin.com/in/mika-adlin/
+  email:             mikhail.adlin@gmail.com
 
 # Gems
 plugins:
